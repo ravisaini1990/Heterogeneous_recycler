@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Heterogeneous Recycler</string>
+    <string name="new_offers_amp_discount"><![CDATA[New Offers & discount]]></string>
+    <string name="title_discount">New Offer avail discount</string>
+    <string name="hotel_offer_desc">Zomato Paytm Offer: Get Rs 100 Cashback on Food Orders</string>
+</resources>
